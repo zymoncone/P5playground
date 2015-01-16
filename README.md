@@ -1,2 +1,3 @@
-# P5playground.js
-My code and comments for a p5.js file.
+# Programming 2 MA
+My code and comments for a Particle System written in OOP in java
+Uses the p5.js library
