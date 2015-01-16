@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>p5 Playground</title>
+    
+</head>
+<body>
+    
+<script type='text/javascript' src='http://webdesign.eastsideprep.org/p5/p5.js'></script>
+<script type='text/javascript' src='p5Playground.js'></script>
+    
+    
+</body>
+
+</html>
