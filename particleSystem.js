@@ -7,8 +7,8 @@ function setup() {                                          //EDIT: new function
 
 function draw() {                                       //EDIT: new function called draw
   background(51);                                       //sets background color
-  system.addParticle();                                 //EDIT: runs the addParticle method from the ParticleSystem.prototype constructor function                                                              on the system, which is a new instance of the ParticleSystem
-  system.run();                                         //EDIT: runs the run method from the ParticleSystem.prototype constructor function on the                                                               system, which is a new instance of the ParticleSystem
+  system.addParticle();                                 //EDIT: runs the addParticle method from the ParticleSystem.prototype                                                                                   on the system, which is a new instance of the ParticleSystem
+  system.run();                                         //EDIT: runs the run method from the ParticleSystem.prototype on the                                                                                     system, which is a new instance of the ParticleSystem
 }
 
 // A simple Particle class
