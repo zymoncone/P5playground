@@ -48,7 +48,7 @@ Particle.prototype.isDead = function(){                 //EDIT: defines the isDe
   }
 };
 
-var ParticleSystem = function(position) {               //EDIT: new constructor function called ParticleSystem passing through the position       parameter
+var ParticleSystem = function(position) {               //EDIT: new constructor function called ParticleSystem passing through the position parameter
   this.origin = position.get();                         //EDIT: sets the orgin property as the position recieved through the get method
   this.particles = [];                                  //creates new particle property defined as empty array
 };
